@@ -1,1 +1,2 @@
 # odin-recipes
+This project aims to create a website that contains different webpages containing recipes of different dishes that can be excessed through links. To create this website, a variety of skills will be displayed, such as using different tags for paragraphing, altering texts, images and links.
